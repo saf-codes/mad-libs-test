@@ -4,7 +4,8 @@ Welcome to Mad Libs! This may not work as well, mainly because I'm new to GitHub
 
 ## How To Play
 
--You'll be asked for some nouns, adjectives, and verbs
+-You'll be asked for some nouns, adjectives, and verbs.
+
 -Then, the program will use all of your inputs and generate a story using them.
 
 ## License
